@@ -23,3 +23,6 @@ Backend development manages data processing, business logic, and server communic
 -Spring Boot
 
 The backend usually connects to databases and exposes APIs that allow the frontend to communicate with the server.
+
+# Microservices Architecture
+Microservices architecture is a software design approach where an application is divided into multiple small, independent services. Each service is responsible for performing a specific business function and can be developed, deployed, and maintained separately.
