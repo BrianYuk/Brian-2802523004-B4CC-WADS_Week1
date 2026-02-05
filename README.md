@@ -26,3 +26,16 @@ The backend usually connects to databases and exposes APIs that allow the fronte
 
 # Microservices Architecture
 Microservices architecture is a software design approach where an application is divided into multiple small, independent services. Each service is responsible for performing a specific business function and can be developed, deployed, and maintained separately.
+
+## Key Characteristics
+1. Service Independence: 
+Each microservice operates independently and can be updated without affecting other services.
+
+2. API-Based Communication: 
+Microservices communicate using APIs, usually through HTTP or messaging systems such as REST or GraphQL.
+
+3. Scalability: 
+Individual services can be scaled independently based on demand. For example, a payment service can scale separately from a user authentication service.
+
+4. Technology Flexibility: 
+Different microservices can use different programming languages or frameworks depending on their requirements.
