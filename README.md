@@ -1,1 +1,4 @@
-# Brian-2802523004-B4CC-WADS_Week1
+# Brian - 2802523004, B4CC
+
+# Web Application Development and Security in Microservices Architecture
+Web application development has evolved significantly alongside the growth of internet technologies. Modern web applications are expected to be scalable, maintainable, and secure while serving millions of users simultaneously. One architectural approach that supports these requirements is microservices architecture. Microservices divide applications into smaller independent services that communicate with each other through APIs. While this approach improves flexibility and scalability, it also introduces new security challenges that developers must address.
